@@ -44,3 +44,5 @@ getEmpleado(4, (err, empleado) => {
 
   console.log(empleado);
 });
+
+console.log("Prueba");
